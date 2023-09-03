@@ -2,192 +2,981 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paper on neuroneural | Sergey Plis, Ph.D.</title>
-    <link>http://splis.gsucreate.org/tags/paper/</link>
+    <link>https://neuroneural.github.io/tags/paper/</link>
     <description>Recent content in Paper on neuroneural | Sergey Plis, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Feb 2023 05:00:00 +0000</lastBuildDate><atom:link href="http://splis.gsucreate.org/tags/paper/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 05:00:00 +0000</lastBuildDate><atom:link href="https://neuroneural.github.io/tags/paper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Causal Learning through Deliberate Undersampling</title>
-      <link>http://splis.gsucreate.org/posts/causal-learning-through-deliberate-undersampling/</link>
+      <link>https://neuroneural.github.io/posts/causal-learning-through-deliberate-undersampling/</link>
       <pubDate>Mon, 20 Feb 2023 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/causal-learning-through-deliberate-undersampling/</guid>
+      <guid>https://neuroneural.github.io/posts/causal-learning-through-deliberate-undersampling/</guid>
       <description>Authors : Kseniya Solovyeva, David Danks, Mohammadsajad Abavisani, Sergey Plis</description>
     </item>
     
     <item>
       <title>Self-supervised multimodal neuroimaging yields predictive representations for a spectrum of Alzheimer&#39;s phenotypes</title>
-      <link>http://splis.gsucreate.org/posts/self-supervised-multimodal-neuroimaging-yields-predictive-representations-for-a-spectrum-of-alzheimers-phenotypes/</link>
+      <link>https://neuroneural.github.io/posts/self-supervised-multimodal-neuroimaging-yields-predictive-representations-for-a-spectrum-of-alzheimers-phenotypes/</link>
       <pubDate>Wed, 07 Sep 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/self-supervised-multimodal-neuroimaging-yields-predictive-representations-for-a-spectrum-of-alzheimers-phenotypes/</guid>
+      <guid>https://neuroneural.github.io/posts/self-supervised-multimodal-neuroimaging-yields-predictive-representations-for-a-spectrum-of-alzheimers-phenotypes/</guid>
       <description>Authors : Alex Fedorov, Eloy Geenjaar, Lei Wu, Tristan Sylvain, Thomas P DeRamus, Margaux Luck, Maria Misiura, R Devon Hjelm, Sergey M Plis, Vince D Calhoun</description>
     </item>
     
     <item>
       <title>Pipeline-Invariant Representation Learning for Neuroimaging</title>
-      <link>http://splis.gsucreate.org/posts/pipeline-invariant-representation-learning-for-neuroimaging/</link>
+      <link>https://neuroneural.github.io/posts/pipeline-invariant-representation-learning-for-neuroimaging/</link>
       <pubDate>Sat, 27 Aug 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/pipeline-invariant-representation-learning-for-neuroimaging/</guid>
+      <guid>https://neuroneural.github.io/posts/pipeline-invariant-representation-learning-for-neuroimaging/</guid>
       <description>Authors : Xinhui Li, Alex Fedorov, Mrinal Mathur, Anees Abrol, Gregory Kiar, Sergey Plis, Vince Calhoun</description>
     </item>
     
     <item>
       <title>Interpreting models interpreting brain dynamics</title>
-      <link>http://splis.gsucreate.org/posts/interpreting-models-interpreting-brain-dynamics/</link>
+      <link>https://neuroneural.github.io/posts/interpreting-models-interpreting-brain-dynamics/</link>
       <pubDate>Thu, 21 Jul 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/interpreting-models-interpreting-brain-dynamics/</guid>
+      <guid>https://neuroneural.github.io/posts/interpreting-models-interpreting-brain-dynamics/</guid>
       <description>Authors : Md Rahman, Usman Mahmood, Noah Lewis, Harshvardhan Gazula, Alex Fedorov, Zening Fu, Vince D Calhoun, Sergey M Plis</description>
     </item>
     
     <item>
       <title>Mind the gap: functional network connectivity interpolation between schizophrenia patients and controls using a variational autoencoder</title>
-      <link>http://splis.gsucreate.org/posts/mind-the-gap-functional-network-connectivity-interpolation-between-schizophrenia-patients-and-controls-using-a-variational-autoencoder/</link>
+      <link>https://neuroneural.github.io/posts/mind-the-gap-functional-network-connectivity-interpolation-between-schizophrenia-patients-and-controls-using-a-variational-autoencoder/</link>
       <pubDate>Mon, 11 Jul 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/mind-the-gap-functional-network-connectivity-interpolation-between-schizophrenia-patients-and-controls-using-a-variational-autoencoder/</guid>
+      <guid>https://neuroneural.github.io/posts/mind-the-gap-functional-network-connectivity-interpolation-between-schizophrenia-patients-and-controls-using-a-variational-autoencoder/</guid>
       <description>Authors : Xinhui Li, Eloy Geenjaar, Zening Fu, Sergey Plis, Vince Calhoun</description>
     </item>
     
     <item>
       <title>Geometrically Guided Integrated Gradients</title>
-      <link>http://splis.gsucreate.org/posts/geometrically-guided-integrated-gradients/</link>
+      <link>https://neuroneural.github.io/posts/geometrically-guided-integrated-gradients/</link>
       <pubDate>Wed, 01 Jun 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/geometrically-guided-integrated-gradients/</guid>
+      <guid>https://neuroneural.github.io/posts/geometrically-guided-integrated-gradients/</guid>
       <description>Authors : Md Mahfuzur Rahman, Noah Lewis, Sergey Plis
 Publication date : 2022/6</description>
     </item>
     
     <item>
       <title>Statelets: Capturing recurrent transient variations in dynamic functional network connectivity</title>
-      <link>http://splis.gsucreate.org/posts/statelets-capturing-recurrent-transient-variations-in-dynamic-functional-network-connectivity/</link>
+      <link>https://neuroneural.github.io/posts/statelets-capturing-recurrent-transient-variations-in-dynamic-functional-network-connectivity/</link>
       <pubDate>Wed, 01 Jun 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/statelets-capturing-recurrent-transient-variations-in-dynamic-functional-network-connectivity/</guid>
+      <guid>https://neuroneural.github.io/posts/statelets-capturing-recurrent-transient-variations-in-dynamic-functional-network-connectivity/</guid>
       <description>Authors : Md Abdur Rahaman, Eswar Damaraju, Debbrata K Saha, Sergey M Plis, Vince D Calhoun</description>
     </item>
     
     <item>
       <title>Constraint-Based Causal Structure Learning from Undersampled Graphs</title>
-      <link>http://splis.gsucreate.org/posts/constraint-based-causal-structure-learning-from-undersampled-graphs/</link>
+      <link>https://neuroneural.github.io/posts/constraint-based-causal-structure-learning-from-undersampled-graphs/</link>
       <pubDate>Wed, 18 May 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/constraint-based-causal-structure-learning-from-undersampled-graphs/</guid>
+      <guid>https://neuroneural.github.io/posts/constraint-based-causal-structure-learning-from-undersampled-graphs/</guid>
       <description>Authors : Mohammadsajad Abavisani, David Danks, Sergey Plis
 Publication date : 2022/5/18</description>
     </item>
     
     <item>
       <title>Privacy‐preserving quality control of neuroimaging datasets in federated environments</title>
-      <link>http://splis.gsucreate.org/posts/privacypreserving-quality-control-of-neuroimaging-datasets-in-federated-environments/</link>
+      <link>https://neuroneural.github.io/posts/privacypreserving-quality-control-of-neuroimaging-datasets-in-federated-environments/</link>
       <pubDate>Sun, 01 May 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/privacypreserving-quality-control-of-neuroimaging-datasets-in-federated-environments/</guid>
+      <guid>https://neuroneural.github.io/posts/privacypreserving-quality-control-of-neuroimaging-datasets-in-federated-environments/</guid>
       <description>Authors : Debbrata K Saha, Vince D Calhoun, Yuhui Du, Zening Fu, Soo Min Kwon, Anand D Sarwate, Sandeep R Panta, Sergey M Plis</description>
     </item>
     
     <item>
       <title>Decentralized Brain Age Estimation using MRI Data</title>
-      <link>http://splis.gsucreate.org/posts/decentralized-brain-age-estimation-using-mri-data/</link>
+      <link>https://neuroneural.github.io/posts/decentralized-brain-age-estimation-using-mri-data/</link>
       <pubDate>Tue, 05 Apr 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/decentralized-brain-age-estimation-using-mri-data/</guid>
+      <guid>https://neuroneural.github.io/posts/decentralized-brain-age-estimation-using-mri-data/</guid>
       <description>Authors : Sunitha Basodi, Rajikha Raja, Bhaskar Ray, Harshvardhan Gazula, Anand D Sarwate, Sergey Plis, Jingyu Liu, Eric Verner, Vince D Calhoun</description>
     </item>
     
     <item>
       <title>Tracking whole-brain connectivity dynamics in the resting state</title>
-      <link>http://splis.gsucreate.org/posts/application-of-machine-learning-to-investigation-of-arcing-on-geosynchronous-satellites/</link>
+      <link>https://neuroneural.github.io/posts/application-of-machine-learning-to-investigation-of-arcing-on-geosynchronous-satellites/</link>
       <pubDate>Fri, 01 Apr 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/application-of-machine-learning-to-investigation-of-arcing-on-geosynchronous-satellites/</guid>
+      <guid>https://neuroneural.github.io/posts/application-of-machine-learning-to-investigation-of-arcing-on-geosynchronous-satellites/</guid>
       <description>Authors : Elena A Allen, Eswar Damaraju, Sergey M Plis, Erik B Erhardt, Tom Eichele, Vince D Calhoun</description>
     </item>
     
     <item>
       <title>Geometrically Guided Saliency Maps</title>
-      <link>http://splis.gsucreate.org/posts/geometrically-guided-saliency-maps/</link>
+      <link>https://neuroneural.github.io/posts/geometrically-guided-saliency-maps/</link>
       <pubDate>Sat, 05 Mar 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/geometrically-guided-saliency-maps/</guid>
+      <guid>https://neuroneural.github.io/posts/geometrically-guided-saliency-maps/</guid>
       <description>Authors : Md Mahfuzur Rahman, Noah Lewis, Sergey Plis
 Publication date : 2014/3/1</description>
     </item>
     
     <item>
       <title>Three‐way parallel group independent component analysis: Fusion of spatial and spatiotemporal magnetic resonance imaging data</title>
-      <link>http://splis.gsucreate.org/posts/threeway-parallel-group-independent-component-analysis-fusion-of-spatial-and-spatiotemporal-magnetic-resonance-imaging-data/</link>
+      <link>https://neuroneural.github.io/posts/three-way-parallel-group-independent-component-analysis-fusion-of-spatial-and-spatiotemporal-magnetic-resonance-imaging-data/</link>
       <pubDate>Tue, 01 Mar 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/threeway-parallel-group-independent-component-analysis-fusion-of-spatial-and-spatiotemporal-magnetic-resonance-imaging-data/</guid>
+      <guid>https://neuroneural.github.io/posts/three-way-parallel-group-independent-component-analysis-fusion-of-spatial-and-spatiotemporal-magnetic-resonance-imaging-data/</guid>
       <description>Authors : Shile Qi, Rogers F Silva, Daoqiang Zhang, Sergey M Plis, Robyn Miller, Victor M Vergara, Rongtao Jiang, Dongmei Zhi, Jing Sui, Vince D Calhoun</description>
     </item>
     
     <item>
       <title>Deep learning in neuroimaging: Promises and challenges</title>
-      <link>http://splis.gsucreate.org/posts/deep-learning-in-neuroimaging-promises-and-challenges/</link>
+      <link>https://neuroneural.github.io/posts/deep-learning-in-neuroimaging-promises-and-challenges/</link>
       <pubDate>Thu, 24 Feb 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/deep-learning-in-neuroimaging-promises-and-challenges/</guid>
+      <guid>https://neuroneural.github.io/posts/deep-learning-in-neuroimaging-promises-and-challenges/</guid>
       <description>Authors : Weizheng Yan, Gang Qu, Wenxing Hu, Anees Abrol, Biao Cai, Chen Qiao, Sergey M Plis, Yu-Ping Wang, Jing Sui, Vince D Calhoun</description>
     </item>
     
     <item>
       <title>Deep Dynamic Effective Connectivity Estimation from Multivariate Time Series</title>
-      <link>http://splis.gsucreate.org/posts/deep-dynamic-effective-connectivity-estimation-from-multivariate-time-series/</link>
+      <link>https://neuroneural.github.io/posts/deep-dynamic-effective-connectivity-estimation-from-multivariate-time-series/</link>
       <pubDate>Fri, 04 Feb 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/deep-dynamic-effective-connectivity-estimation-from-multivariate-time-series/</guid>
+      <guid>https://neuroneural.github.io/posts/deep-dynamic-effective-connectivity-estimation-from-multivariate-time-series/</guid>
       <description>Authors : Usman Mahmood, Zening Fu, Vince Calhoun, Sergey Plis</description>
     </item>
     
     <item>
       <title>Federated analysis in COINSTAC reveals functional network connectivity and spectral links to smoking and alcohol consumption in nearly 2,000 adolescent brains</title>
-      <link>http://splis.gsucreate.org/posts/federated-analysis-in-coinstac-reveals-functional-network-connectivity-and-spectral-links-to-smoking-and-alcohol-consumption-in-nearly-2000-adolescent-brains/</link>
+      <link>https://neuroneural.github.io/posts/federated-analysis-in-coinstac-reveals-functional-network-connectivity-and-spectral-links-to-smoking-and-alcohol-consumption-in-nearly-2000-adolescent-brains/</link>
       <pubDate>Sat, 01 Jan 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/federated-analysis-in-coinstac-reveals-functional-network-connectivity-and-spectral-links-to-smoking-and-alcohol-consumption-in-nearly-2000-adolescent-brains/</guid>
+      <guid>https://neuroneural.github.io/posts/federated-analysis-in-coinstac-reveals-functional-network-connectivity-and-spectral-links-to-smoking-and-alcohol-consumption-in-nearly-2000-adolescent-brains/</guid>
       <description>Authors : Harshvardhan Gazula, Kelly Rootes-Murdy, Bharath Holla, Sunitha Basodi, Zuo Zhang, Eric Verner, Ross Kelly, Pratima Murthy, Amit Chakrabarti, Debasish Basu, Subodh Bhagyalakshmi Nanjayya, Rajkumar Lenin Singh, Roshan Lourembam Singh, Kartik Kalyanram, Kamakshi Kartik, Kumaran Kalyanaraman, Krishnaveni Ghattu, Rebecca Kuriyan, Sunita Simon Kurpad, Gareth J Barker, Rose Dawn Bharath, Sylvane Desrivieres, Meera Purushottam, Dimitri Papadopoulos Orfanos, Eesha Sharma, Matthew Hickman, Mireille Toledano, Nilakshi Vaidya, Tobias Banaschewski, Arun LW Bokde, Herta Flor, Antoine Grigis, Hugh Garavan, Penny Gowland, Andreas Heinz, Rüdiger Brühl, Jean-Luc Martinot, Marie-Laure Paillère Martinot, Eric Artiges, Frauke Nees, Tomáš Paus, Luise Poustka, Juliane H Fröhner, Lauren Robinson, Michael N Smolka, Henrik Walter, Jeanne Winterer, Robert Whelan, Jessica A Turner, Anand D Sarwate, Sergey M Plis, Vivek Benegal, Gunter Schumann, Vince D Calhoun, IMAGEN Consortium</description>
     </item>
     
     <item>
       <title>Path analysis: A method to estimate altered pathways in time-varying graphs of neuroimaging data</title>
-      <link>http://splis.gsucreate.org/posts/path-analysis-a-method-to-estimate-altered-pathways-in-time-varying-graphs-of-neuroimaging-data/</link>
+      <link>https://neuroneural.github.io/posts/path-analysis-a-method-to-estimate-altered-pathways-in-time-varying-graphs-of-neuroimaging-data/</link>
       <pubDate>Sat, 01 Jan 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/path-analysis-a-method-to-estimate-altered-pathways-in-time-varying-graphs-of-neuroimaging-data/</guid>
+      <guid>https://neuroneural.github.io/posts/path-analysis-a-method-to-estimate-altered-pathways-in-time-varying-graphs-of-neuroimaging-data/</guid>
       <description>Authors : Haleh Falakshahi, Hooman Rokham, Zening Fu, Armin Iraji, Daniel H Mathalon, Judith M Ford, Bryon A Mueller, Adrian Preda, Theo GM van Erp, Jessica A Turner, Sergey Plis, Vince D Calhoun</description>
     </item>
     
     <item>
       <title>Single-shot pruning for offline reinforcement learning</title>
-      <link>http://splis.gsucreate.org/posts/single-shot-pruning-for-offline-reinforcement-learning/</link>
+      <link>https://neuroneural.github.io/posts/single-shot-pruning-for-offline-reinforcement-learning/</link>
       <pubDate>Fri, 31 Dec 2021 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/single-shot-pruning-for-offline-reinforcement-learning/</guid>
+      <guid>https://neuroneural.github.io/posts/single-shot-pruning-for-offline-reinforcement-learning/</guid>
       <description>Authors : Samin Yeasar Arnob, Riyasat Ohib, Sergey Plis, Doina Precup</description>
     </item>
     
     <item>
       <title>Federated analysis of neuroimaging data: A review of the field</title>
-      <link>http://splis.gsucreate.org/posts/federated-analysis-of-neuroimaging-data-a-review-of-the-field/</link>
+      <link>https://neuroneural.github.io/posts/federated-analysis-of-neuroimaging-data-a-review-of-the-field/</link>
       <pubDate>Mon, 22 Nov 2021 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/federated-analysis-of-neuroimaging-data-a-review-of-the-field/</guid>
+      <guid>https://neuroneural.github.io/posts/federated-analysis-of-neuroimaging-data-a-review-of-the-field/</guid>
       <description>Authors : Elena A Allen, Eswar Damaraju, Sergey M Plis, Erik B Erhardt, Tom Eichele, Vince D Calhoun</description>
     </item>
     
     <item>
-      <title>Tracking whole-brain connectivity dynamics in the resting state</title>
-      <link>http://splis.gsucreate.org/posts/tracking-whole-brain-connectivity-dynamics-in-the-resting-state/</link>
+      <title>205. Deep Learning Approaches to Unimodal and Multimodal Analysis of Brain Imaging Data With Applications to Mental Illness</title>
+      <link>https://neuroneural.github.io/posts/205.-deep-learning-approaches-to-unimodal-and-multimodal-analysis-of-brain-imaging-data-with-applications-to-mental-illness/</link>
       <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
       
-      <guid>http://splis.gsucreate.org/posts/tracking-whole-brain-connectivity-dynamics-in-the-resting-state/</guid>
+      <guid>https://neuroneural.github.io/posts/205.-deep-learning-approaches-to-unimodal-and-multimodal-analysis-of-brain-imaging-data-with-applications-to-mental-illness/</guid>
+      <description>Title: 205. Deep Learning Approaches to Unimodal and Multimodal Analysis of Brain Imaging Data With Applications to Mental Illness</description>
+    </item>
+    
+    <item>
+      <title>A classification-based approach to estimate the number of resting functional magnetic resonance imaging dynamic functional connectivity states</title>
+      <link>https://neuroneural.github.io/posts/a-classification-based-approach-to-estimate-the-number-of-resting-functional-magnetic-resonance-imaging-dynamic-functional-connectivity-states/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/a-classification-based-approach-to-estimate-the-number-of-resting-functional-magnetic-resonance-imaging-dynamic-functional-connectivity-states/</guid>
+      <description>Title: A classification-based approach to estimate the number of resting functional magnetic resonance imaging dynamic functional connectivity states</description>
+    </item>
+    
+    <item>
+      <title>A constraint optimization approach to causal discovery from subsampled time series data</title>
+      <link>https://neuroneural.github.io/posts/a-constraint-optimization-approach-to-causal-discovery-from-subsampled-time-series-data/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/a-constraint-optimization-approach-to-causal-discovery-from-subsampled-time-series-data/</guid>
+      <description>Title: A constraint optimization approach to causal discovery from subsampled time series data</description>
+    </item>
+    
+    <item>
+      <title>A Correlated Noise-Assisted Decentralized Differentially Private Estimation Protocol, and its Application to fMRI Source Separation</title>
+      <link>https://neuroneural.github.io/posts/a-correlated-noise-assisted-decentralized-differentially-private-estimation-protocol-and-its-application-to-fmri-source-separation/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/a-correlated-noise-assisted-decentralized-differentially-private-estimation-protocol-and-its-application-to-fmri-source-separation/</guid>
+      <description>Title: A Correlated Noise-Assisted Decentralized Differentially Private Estimation Protocol, and its Application to fMRI Source Separation</description>
+    </item>
+    
+    <item>
+      <title>A DEEP LEARNING APPROACH TO ESTIMATING INITIAL CONDITIONS OF BRAIN NETWORK MODELS IN REFERENCE TO MEASURED FMRI DATA</title>
+      <link>https://neuroneural.github.io/posts/a-deep-learning-approach-to-estimating-initial-conditions-of-brain-network-models-in-reference-to-measured-fmri-data/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/a-deep-learning-approach-to-estimating-initial-conditions-of-brain-network-models-in-reference-to-measured-fmri-data/</guid>
+      <description>Title: A DEEP LEARNING APPROACH TO ESTIMATING INITIAL CONDITIONS OF BRAIN NETWORK MODELS IN REFERENCE TO MEASURED FMRI DATA</description>
+    </item>
+    
+    <item>
+      <title>A deep learning model for data-driven discovery of functional connectivity</title>
+      <link>https://neuroneural.github.io/posts/a-deep-learning-model-for-data-driven-discovery-of-functional-connectivity/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/a-deep-learning-model-for-data-driven-discovery-of-functional-connectivity/</guid>
+      <description>Title: A deep learning model for data-driven discovery of functional connectivity</description>
+    </item>
+    
+    <item>
+      <title>A Method for Analyzing Abnormal Integration Between the Brain Regions in Schizophrenia</title>
+      <link>https://neuroneural.github.io/posts/a-method-for-analyzing-abnormal-integration-between-the-brain-regions-in-schizophrenia/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/a-method-for-analyzing-abnormal-integration-between-the-brain-regions-in-schizophrenia/</guid>
+      <description>Title: A Method for Analyzing Abnormal Integration Between the Brain Regions in Schizophrenia</description>
+    </item>
+    
+    <item>
+      <title>A tool for interactive data visualization: application to over 10,000 brain imaging and phantom MRI data sets</title>
+      <link>https://neuroneural.github.io/posts/a-tool-for-interactive-data-visualization-application-to-over-10000-brain-imaging-and-phantom-mri-data-sets/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/a-tool-for-interactive-data-visualization-application-to-over-10000-brain-imaging-and-phantom-mri-data-sets/</guid>
+      <description>Title: A tool for interactive data visualization: application to over 10,000 brain imaging and phantom MRI data sets</description>
+    </item>
+    
+    <item>
+      <title>Addressing inaccurate nosology in mental health: A multilabel data cleansing approach for detecting label noise from structural magnetic resonance imaging data in mood and psychosis disorders</title>
+      <link>https://neuroneural.github.io/posts/addressing-inaccurate-nosology-in-mental-health-a-multilabel-data-cleansing-approach-for-detecting-label-noise-from-structural-magnetic-resonance-imaging-data-in-mood-and-psychosis-disorders/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/addressing-inaccurate-nosology-in-mental-health-a-multilabel-data-cleansing-approach-for-detecting-label-noise-from-structural-magnetic-resonance-imaging-data-in-mood-and-psychosis-disorders/</guid>
+      <description>Title: Addressing inaccurate nosology in mental health: A multilabel data cleansing approach for detecting label noise from structural magnetic resonance imaging data in mood and psychosis disorders</description>
+    </item>
+    
+    <item>
+      <title>Algorithm-Agnostic Explainability for Unsupervised Clustering</title>
+      <link>https://neuroneural.github.io/posts/algorithm-agnostic-explainability-for-unsupervised-clustering/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/algorithm-agnostic-explainability-for-unsupervised-clustering/</guid>
+      <description>Title: Algorithm-Agnostic Explainability for Unsupervised Clustering
+Authors: Charles A Ellis, Mohammad SE Sendi, Eloy Geenjaar, Sergey M Plis, Robyn L Miller, Vince D Calhoun</description>
+    </item>
+    
+    <item>
+      <title>Almost instant brain atlas segmentation for large-scale studies</title>
+      <link>https://neuroneural.github.io/posts/almost-instant-brain-atlas-segmentation-for-large-scale-studies/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/almost-instant-brain-atlas-segmentation-for-large-scale-studies/</guid>
+      <description>Title: Almost instant brain atlas segmentation for large-scale studies
+Authors: Alex Fedorov, Eswar Damaraju, Vince Calhoun, Sergey Plis</description>
+    </item>
+    
+    <item>
+      <title>Amalgamating evidence of dynamics</title>
+      <link>https://neuroneural.github.io/posts/amalgamating-evidence-of-dynamics/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/amalgamating-evidence-of-dynamics/</guid>
+      <description>Title: Amalgamating evidence of dynamics
+Authors: David Danks, Sergey Plis</description>
+    </item>
+    
+    <item>
+      <title>B58 BIG AND BIGGER (DATA): OMICS AND BIOMARKERS OF COPD AND OTHER CHRONIC LUNG DISEASES: Support Vector Machine Identifies A Set Of Metabolites In Plasma That Predict Rapid Fev1 Decline In Humans And Mice</title>
+      <link>https://neuroneural.github.io/posts/b58-big-and-bigger-data-omics-and-biomarkers-of-copd-and-other-chronic-lung-diseases-support-vector-machine-identifies-a-set-of-metabolites-in-plasma-that-predict-rapid-fev1-decline-in-humans-and-mice/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/b58-big-and-bigger-data-omics-and-biomarkers-of-copd-and-other-chronic-lung-diseases-support-vector-machine-identifies-a-set-of-metabolites-in-plasma-that-predict-rapid-fev1-decline-in-humans-and-mice/</guid>
+      <description>Title: B58 BIG AND BIGGER (DATA): OMICS AND BIOMARKERS OF COPD AND OTHER CHRONIC LUNG DISEASES: Support Vector Machine Identifies A Set Of Metabolites In Plasma That Predict Rapid Fev1 Decline In Humans And Mice</description>
+    </item>
+    
+    <item>
+      <title>Bayesian brain source imaging based on combined MEG EEG and fMRI using MCMC</title>
+      <link>https://neuroneural.github.io/posts/bayesian-brain-source-imaging-based-on-combined-meg-eeg-and-fmri-using-mcmc/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/bayesian-brain-source-imaging-based-on-combined-meg-eeg-and-fmri-using-mcmc/</guid>
+      <description>Title: Bayesian brain source imaging based on combined MEG EEG and fMRI using MCMC</description>
+    </item>
+    
+    <item>
+      <title>Blind source separation for unimodal and multimodal brain networks A unifying framework for subspace modeling</title>
+      <link>https://neuroneural.github.io/posts/blind-source-separation-for-unimodal-and-multimodal-brain-networks-a-unifying-framework-for-subspace-modeling/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/blind-source-separation-for-unimodal-and-multimodal-brain-networks-a-unifying-framework-for-subspace-modeling/</guid>
+      <description>Title: Blind source separation for unimodal and multimodal brain networks: A unifying framework for subspace modeling</description>
+    </item>
+    
+    <item>
+      <title>Brain dynamics via Cumulative Auto-Regressive Self-Attention</title>
+      <link>https://neuroneural.github.io/posts/brain-dynamics-via-cumulative-auto-regressive-self-attention/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/brain-dynamics-via-cumulative-auto-regressive-self-attention/</guid>
+      <description>Title: Brain dynamics via Cumulative Auto-Regressive Self-Attention
+Authors: Usman Mahmood, Zening Fu, Vince Calhoun, Sergey Plis</description>
+    </item>
+    
+    <item>
+      <title>COINSTAC - a privacy enabled model and prototype for leveraging and processing decentralized brain imaging data</title>
+      <link>https://neuroneural.github.io/posts/coinstac-a-privacy-enabled-model-and-prototype-for-leveraging-and-processing-decentralized-brain-imaging-data/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/coinstac-a-privacy-enabled-model-and-prototype-for-leveraging-and-processing-decentralized-brain-imaging-data/</guid>
+      <description>Title: COINSTAC: a privacy enabled model and prototype for leveraging and processing decentralized brain imaging data</description>
+    </item>
+    
+    <item>
+      <title>COINSTAC - Collaborative informatics and neuroimaging suite toolkit for anonymous computation</title>
+      <link>https://neuroneural.github.io/posts/coinstac-collaborative-informatics-and-neuroimaging-suite-toolkit-for-anonymous-computation/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/coinstac-collaborative-informatics-and-neuroimaging-suite-toolkit-for-anonymous-computation/</guid>
+      <description>Title: Coinstac: Collaborative informatics and neuroimaging suite toolkit for anonymous computation</description>
+    </item>
+    
+    <item>
+      <title>COINSTAC - Decentralizing the future of brain imaging analysis</title>
+      <link>https://neuroneural.github.io/posts/coinstac-decentralizing-the-future-of-brain-imaging-analysis/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/coinstac-decentralizing-the-future-of-brain-imaging-analysis/</guid>
+      <description>Title: COINSTAC: Decentralizing the future of brain imaging analysis
+Authors: Jing Ming, Eric Verner, Anand Sarwate, Ross Kelly, Cory Reed, Torran Kahleck, Rogers Silva, Sandeep Panta, Jessica Turner, Sergey Plis, Vince Calhoun</description>
+    </item>
+    
+    <item>
+      <title>Concurrent cross-sectional and longitudinal analyses of multivariate white matter profiles and clinical functioning in pre-diagnosis Huntington disease</title>
+      <link>https://neuroneural.github.io/posts/concurrent-cross-sectional-and-longitudinal-analyses-of-multivariate-white-matter-profiles-and-clinical-functioning-in-pre-diagnosis-huntington-disease/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/concurrent-cross-sectional-and-longitudinal-analyses-of-multivariate-white-matter-profiles-and-clinical-functioning-in-pre-diagnosis-huntington-disease/</guid>
+      <description>Title: Concurrent cross-sectional and longitudinal analyses of multivariate white matter profiles and clinical functioning in pre-diagnosis Huntington disease</description>
+    </item>
+    
+    <item>
+      <title>Correlated noise - How it breaks NMF, and what to do about it</title>
+      <link>https://neuroneural.github.io/posts/correlated-noise-how-it-breaks-nmf-and-what-to-do-about-it/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/correlated-noise-how-it-breaks-nmf-and-what-to-do-about-it/</guid>
+      <description>Title: Correlated noise: How it breaks NMF, and what to do about it</description>
+    </item>
+    
+    <item>
+      <title>Decentralized analysis of brain imaging data - Voxel-based morphometry and dynamic functional network connectivity</title>
+      <link>https://neuroneural.github.io/posts/decentralized-analysis-of-brain-imaging-data-voxel-based-morphometry-and-dynamic-functional-network-connectivity/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/decentralized-analysis-of-brain-imaging-data-voxel-based-morphometry-and-dynamic-functional-network-connectivity/</guid>
+      <description>Title: Decentralized analysis of brain imaging data: Voxel-based morphometry and dynamic functional network connectivity</description>
+    </item>
+    
+    <item>
+      <title>Decentralized distribution-sampled classification models with application to brain imaging</title>
+      <link>https://neuroneural.github.io/posts/decentralized-distribution-sampled-classification-models-with-application-to-brain-imaging/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/decentralized-distribution-sampled-classification-models-with-application-to-brain-imaging/</guid>
+      <description>Title: Decentralized distribution-sampled classification models with application to brain imaging</description>
+    </item>
+    
+    <item>
+      <title>Decentralized multisite VBM analysis during adolescence shows structural changes linked to age, body mass index, and smoking - a COINSTAC analysis</title>
+      <link>https://neuroneural.github.io/posts/decentralized-multisite-vbm-analysis-during-adolescence-shows-structural-changes-linked-to-age-body-mass-index-and-smoking-a-coinstac-analysis/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/decentralized-multisite-vbm-analysis-during-adolescence-shows-structural-changes-linked-to-age-body-mass-index-and-smoking-a-coinstac-analysis/</guid>
+      <description>Title: Decentralized multisite VBM analysis during adolescence shows structural changes linked to age, body mass index, and smoking: a COINSTAC analysis</description>
+    </item>
+    
+    <item>
+      <title>Decentralized temporal independent component analysis - leveraging fMRI data in collaborative settings</title>
+      <link>https://neuroneural.github.io/posts/decentralized-temporal-independent-component-analysis-leveraging-fmri-data-in-collaborative-settings/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/decentralized-temporal-independent-component-analysis-leveraging-fmri-data-in-collaborative-settings/</guid>
+      <description>Title: Decentralized temporal independent component analysis: leveraging fMRI data in collaborative settings</description>
+    </item>
+    
+    <item>
+      <title>Deep independence network analysis of structural brain imaging- application to schizophrenia</title>
+      <link>https://neuroneural.github.io/posts/deep-independence-network-analysis-of-structural-brain-imaging-application-to-schizophrenia/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/deep-independence-network-analysis-of-structural-brain-imaging-application-to-schizophrenia/</guid>
+      <description>Title: Deep independence network analysis of structural brain imaging: application to schizophrenia</description>
+    </item>
+    
+    <item>
+      <title>Deep learning applications for predicting pharmacological properties of drugs and drug repurposing using transcriptomic data</title>
+      <link>https://neuroneural.github.io/posts/deep-learning-applications-for-predicting-pharmacological-properties-of-drugs-and-drug-repurposing-using-transcriptomic-data/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/deep-learning-applications-for-predicting-pharmacological-properties-of-drugs-and-drug-repurposing-using-transcriptomic-data/</guid>
+      <description>Title: Deep learning applications for predicting pharmacological properties of drugs and drug repurposing using transcriptomic data</description>
+    </item>
+    
+    <item>
+      <title>Deep learning encodes robust discriminative neuroimaging representations to outperform standard machine learning</title>
+      <link>https://neuroneural.github.io/posts/deep-learning-encodes-robust-discriminative-neuroimaging-representations-to-outperform-standard-machine-learning/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/deep-learning-encodes-robust-discriminative-neuroimaging-representations-to-outperform-standard-machine-learning/</guid>
+      <description>Title: Deep learning encodes robust discriminative neuroimaging representations to outperform standard machine learning</description>
+    </item>
+    
+    <item>
+      <title>Deep learning for neuroimaging - a validation study</title>
+      <link>https://neuroneural.github.io/posts/deep-learning-for-neuroimaging-a-validation-study/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/deep-learning-for-neuroimaging-a-validation-study/</guid>
+      <description>Title: Deep learning for neuroimaging: a validation study
+Authors: Sergey M Plis, Devon R Hjelm, Ruslan Salakhutdinov, Elena A Allen, Henry J Bockholt, Jeffrey D Long, Hans J Johnson, Jane S Paulsen, Jessica A Turner, Vince D Calhoun</description>
+    </item>
+    
+    <item>
+      <title>Deep learning models for brain imaging - Model depth enhances discovery power</title>
+      <link>https://neuroneural.github.io/posts/deep-learning-models-for-brain-imaging-model-depth-enhances-discovery-power/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/deep-learning-models-for-brain-imaging-model-depth-enhances-discovery-power/</guid>
+      <description>Title: Deep learning models for brain imaging: Model depth enhances discovery power</description>
+    </item>
+    
+    <item>
+      <title>Deep residual learning for neuroimaging - an application to predict progression to Alzheimer&#39;s disease</title>
+      <link>https://neuroneural.github.io/posts/deep-residual-learning-for-neuroimaging-an-application-to-predict-progression-to-alzheimer%CE%B3%C3%A7%C3%B6s-disease/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/deep-residual-learning-for-neuroimaging-an-application-to-predict-progression-to-alzheimer%CE%B3%C3%A7%C3%B6s-disease/</guid>
+      <description>Title: Deep residual learning for neuroimaging: an application to predict progression to Alzheimer’s disease</description>
+    </item>
+    
+    <item>
+      <title>Detecting Label Noise from Multi-site Structural Magnetic Resonance Imaging Data to Mitigate Inaccurate Nosology in Mental Health</title>
+      <link>https://neuroneural.github.io/posts/detecting-label-noise-from-multi-site-structural-magnetic-resonance-imaging-data-to-mitigate-inaccurate-nosology-in-mental-health/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/detecting-label-noise-from-multi-site-structural-magnetic-resonance-imaging-data-to-mitigate-inaccurate-nosology-in-mental-health/</guid>
+      <description>Title: Detecting Label Noise from Multi-site Structural Magnetic Resonance Imaging Data to Mitigate Inaccurate Nosology in Mental Health</description>
+    </item>
+    
+    <item>
+      <title>Directional statistics on permutations</title>
+      <link>https://neuroneural.github.io/posts/directional-statistics-on-permutations/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/directional-statistics-on-permutations/</guid>
+      <description>Title: Directional statistics on permutations
+Authors: Sergey M Plis, Terran Lane, Vince D Calhoun</description>
+    </item>
+    
+    <item>
+      <title>Disrupted correlation between low frequency power and connectivity strength of resting state brain networks in schizophrenia</title>
+      <link>https://neuroneural.github.io/posts/disrupted-correlation-between-low-frequency-power-and-connectivity-strength-of-resting-state-brain-networks-in-schizophrenia/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/disrupted-correlation-between-low-frequency-power-and-connectivity-strength-of-resting-state-brain-networks-in-schizophrenia/</guid>
+      <description>Title: Disrupted correlation between low frequency power and connectivity strength of resting state brain networks in schizophrenia</description>
+    </item>
+    
+    <item>
+      <title>dSNE - a visualization approach for use with decentralized data</title>
+      <link>https://neuroneural.github.io/posts/dsne-a-visualization-approach-for-use-with-decentralized-data/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/dsne-a-visualization-approach-for-use-with-decentralized-data/</guid>
+      <description>Title: dSNE: a visualization approach for use with decentralized data</description>
+    </item>
+    
+    <item>
+      <title>Effective connectivity analysis of fMRI and MEG data collected under identical paradigms</title>
+      <link>https://neuroneural.github.io/posts/effective-connectivity-analysis-of-fmri-and-meg-data-collected-under-identical-paradigms/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/effective-connectivity-analysis-of-fmri-and-meg-data-collected-under-identical-paradigms/</guid>
+      <description>Title: Effective connectivity analysis of fMRI and MEG data collected under identical paradigms</description>
+    </item>
+    
+    <item>
+      <title>Efficient Distributed Auto-Differentiation</title>
+      <link>https://neuroneural.github.io/posts/efficient-distributed-auto-differentiation/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/efficient-distributed-auto-differentiation/</guid>
+      <description>Title: Efficient Distributed Auto-Differentiation
+Authors: Bradley T Baker, Vince D Calhoun, Barak Pearlmutter, Sergey M Plis</description>
+    </item>
+    
+    <item>
+      <title>Explicit group sparse projection with applications to deep learning and NMF</title>
+      <link>https://neuroneural.github.io/posts/explicit-group-sparse-projection-with-applications-to-deep-learning-and-nmf/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/explicit-group-sparse-projection-with-applications-to-deep-learning-and-nmf/</guid>
+      <description>Title: Explicit group sparse projection with applications to deep learning and NMF</description>
+    </item>
+    
+    <item>
+      <title>From private sites to big data without compromising privacy - a case of neuroimaging data classification</title>
+      <link>https://neuroneural.github.io/posts/from-private-sites-to-big-data-without-compromising-privacy-a-case-of-neuroimaging-data-classification/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/from-private-sites-to-big-data-without-compromising-privacy-a-case-of-neuroimaging-data-classification/</guid>
+      <description>Title: From private sites to big data without compromising privacy: a case of neuroimaging data classification</description>
+    </item>
+    
+    <item>
+      <title>Functional and effective connectivity of stopping</title>
+      <link>https://neuroneural.github.io/posts/functional-and-effective-connectivity-of-stopping/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/functional-and-effective-connectivity-of-stopping/</guid>
+      <description>Title: Functional and effective connectivity of stopping
+Authors: René J Huster, Sergey M Plis, Christina F Lavallee, Vince D Calhoun, Christoph S Herrmann</description>
+    </item>
+    
+    <item>
+      <title>Group-level component analyses of EEG - validation and evaluation</title>
+      <link>https://neuroneural.github.io/posts/group-level-component-analyses-of-eeg-validation-and-evaluation/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/group-level-component-analyses-of-eeg-validation-and-evaluation/</guid>
+      <description>Title: Group-level component analyses of EEG: validation and evaluation
+Authors: Rene J Huster, Sergey M Plis, Vince D Calhoun</description>
+    </item>
+    
+    <item>
+      <title>Grouped sparse projection</title>
+      <link>https://neuroneural.github.io/posts/grouped-sparse-projection/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/grouped-sparse-projection/</guid>
+      <description>Title: Grouped sparse projection
+Authors: Nicolas Gillis, Riyasat Ohib, Sergey Plis, Vamsi Potluru</description>
+    </item>
+    
+    <item>
+      <title>High and Low Levels of an NTRK2-Driven Genetic Profile Affect Motor- and Cognition-Associated Frontal Gray Matter in Prodromal Huntington’s Disease</title>
+      <link>https://neuroneural.github.io/posts/high-and-low-levels-of-an-ntrk2-driven-genetic-profile-affect-motor-and-cognition-associated-frontal-gray-matter-in-prodromal-huntington%CE%B3%C3%A7%C3%B6s-disease/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/high-and-low-levels-of-an-ntrk2-driven-genetic-profile-affect-motor-and-cognition-associated-frontal-gray-matter-in-prodromal-huntington%CE%B3%C3%A7%C3%B6s-disease/</guid>
+      <description>Title: High and Low Levels of an NTRK2-Driven Genetic Profile Affect Motor- and Cognition-Associated Frontal Gray Matter in Prodromal Huntington’s Disease</description>
+    </item>
+    
+    <item>
+      <title>High-order interactions observed in multi-task intrinsic networks are dominant indicators of aberrant brain function in schizophrenia</title>
+      <link>https://neuroneural.github.io/posts/high-order-interactions-observed-in-multi-task-intrinsic-networks-are-dominant-indicators-of-aberrant-brain-function-in-schizophrenia/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/high-order-interactions-observed-in-multi-task-intrinsic-networks-are-dominant-indicators-of-aberrant-brain-function-in-schizophrenia/</guid>
+      <description>Title: High-order interactions observed in multi-task intrinsic networks are dominant indicators of aberrant brain function in schizophrenia</description>
+    </item>
+    
+    <item>
+      <title>Hype versus hope - deep learning encodes more predictive and robust brain imaging representations than standard machine learning</title>
+      <link>https://neuroneural.github.io/posts/hype-versus-hope-deep-learning-encodes-more-predictive-and-robust-brain-imaging-representations-than-standard-machine-learning/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/hype-versus-hope-deep-learning-encodes-more-predictive-and-robust-brain-imaging-representations-than-standard-machine-learning/</guid>
+      <description>Title: Hype versus hope: deep learning encodes more predictive and robust brain imaging representations than standard machine learning</description>
+    </item>
+    
+    <item>
+      <title>Impact of autocorrelation on functional connectivity</title>
+      <link>https://neuroneural.github.io/posts/impact-of-autocorrelation-on-functional-connectivity/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/impact-of-autocorrelation-on-functional-connectivity/</guid>
+      <description>Title: Impact of autocorrelation on functional connectivity
+Authors: Mohammad R Arbabshirani, Eswar Damaraju, Ronald Phlypo, Sergey Plis, Elena Allen, Sai Ma, Daniel Mathalon, Adrian Preda, Jatin G Vaidya, Tülay Adali, Vince D Calhoun</description>
+    </item>
+    
+    <item>
+      <title>Improved differentially private decentralized source separation for fMRI data</title>
+      <link>https://neuroneural.github.io/posts/improved-differentially-private-decentralized-source-separation-for-fmri-data/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/improved-differentially-private-decentralized-source-separation-for-fmri-data/</guid>
+      <description>Title: Improved differentially private decentralized source separation for fMRI data</description>
+    </item>
+    
+    <item>
+      <title>Improving classification rate of schizophrenia using a multimodal multi-layer perceptron model with structural and functional MR</title>
+      <link>https://neuroneural.github.io/posts/improving-classification-rate-of-schizophrenia-using-a-multimodal-multi-layer-perceptron-model-with-structural-and-functional-mr/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/improving-classification-rate-of-schizophrenia-using-a-multimodal-multi-layer-perceptron-model-with-structural-and-functional-mr/</guid>
+      <description>Title: Improving classification rate of schizophrenia using a multimodal multi-layer perceptron model with structural and functional MR</description>
+    </item>
+    
+    <item>
+      <title>Improving source detection and separation in a spatiotemporal Bayesian inference dipole analysis</title>
+      <link>https://neuroneural.github.io/posts/improving-source-detection-and-separation-in-a-spatiotemporal-bayesian-inference-dipole-analysis/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/improving-source-detection-and-separation-in-a-spatiotemporal-bayesian-inference-dipole-analysis/</guid>
+      <description>Title: Improving source detection and separation in a spatiotemporal Bayesian inference dipole analysis</description>
+    </item>
+    
+    <item>
+      <title>Independent component analysis for brain fMRI does indeed select for maximal independence</title>
+      <link>https://neuroneural.github.io/posts/independent-component-analysis-for-brain-fmri-does-indeed-select-for-maximal-independence/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/independent-component-analysis-for-brain-fmri-does-indeed-select-for-maximal-independence/</guid>
+      <description>Title: Independent component analysis for brain fMRI does indeed select for maximal independence</description>
+    </item>
+    
+    <item>
+      <title>Learning dynamic structure from undersampled data</title>
+      <link>https://neuroneural.github.io/posts/learning-dynamic-structure-from-undersampled-data/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/learning-dynamic-structure-from-undersampled-data/</guid>
+      <description>Title: Learning dynamic structure from undersampled data
+Authors: John W Cook, David Danks, Sergey M Plis</description>
+    </item>
+    
+    <item>
+      <title>Learnt dynamics generalizes across tasks, datasets, and populations</title>
+      <link>https://neuroneural.github.io/posts/learnt-dynamics-generalizes-across-tasks-datasets-and-populations/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/learnt-dynamics-generalizes-across-tasks-datasets-and-populations/</guid>
+      <description>Title: Learnt dynamics generalizes across tasks, datasets, and populations
+Authors: Usman Mahmood, Md Mahfuzur Rahman, Alex Fedorov, Zening Fu, Vince D Calhoun, Sergey M Plis</description>
+    </item>
+    
+    <item>
+      <title>MEG and fMRI fusion for non-linear estimation of neural and BOLD signal changes</title>
+      <link>https://neuroneural.github.io/posts/meg-and-fmri-fusion-for-non-linear-estimation-of-neural-and-bold-signal-changes/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/meg-and-fmri-fusion-for-non-linear-estimation-of-neural-and-bold-signal-changes/</guid>
+      <description>Title: MEG and fMRI fusion for non-linear estimation of neural and BOLD signal changes</description>
+    </item>
+    
+    <item>
+      <title>Mesochronal Structure Learning</title>
+      <link>https://neuroneural.github.io/posts/block-coordinate-descent-for-sparse-nmf/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/block-coordinate-descent-for-sparse-nmf/</guid>
+      <description>Title: Mesochronal structure learning
+Authors: Sergey Plis, David Danks, Jianyu Yang</description>
+    </item>
+    
+    <item>
+      <title>Mesochronal Structure Learning</title>
+      <link>https://neuroneural.github.io/posts/mesochronal-structure-learning/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/mesochronal-structure-learning/</guid>
+      <description>Title: Mesochronal structure learning
+Authors: Sergey Plis, David Danks, Jianyu Yang</description>
+    </item>
+    
+    <item>
+      <title>Modeling spatiotemporal covariance for magnetoencephalography or electroencephalography source analysis</title>
+      <link>https://neuroneural.github.io/posts/modeling-spatiotemporal-covariance-for-magnetoencephalography-or-electroencephalography-source-analysis/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/modeling-spatiotemporal-covariance-for-magnetoencephalography-or-electroencephalography-source-analysis/</guid>
+      <description>Title: Modeling spatiotemporal covariance for magnetoencephalography or electroencephalography source analysis</description>
+    </item>
+    
+    <item>
+      <title>Modeling spatiotemporal noise covariance for MEG EEG source analysis</title>
+      <link>https://neuroneural.github.io/posts/modeling-spatiotemporal-noise-covariance-for-meg-eeg-source-analysis/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/modeling-spatiotemporal-noise-covariance-for-meg-eeg-source-analysis/</guid>
+      <description>Title: Modeling spatiotemporal noise covariance for MEG EEG source analysis</description>
+    </item>
+    
+    <item>
+      <title>Modular organization of functional network connectivity in healthy controls and patients with schizophrenia during the resting state</title>
+      <link>https://neuroneural.github.io/posts/modular-organization-of-functional-network-connectivity-in-healthy-controls-and-patients-with-schizophrenia-during-the-resting-state/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/modular-organization-of-functional-network-connectivity-in-healthy-controls-and-patients-with-schizophrenia-during-the-resting-state/</guid>
+      <description>Title: Modular organization of functional network connectivity in healthy controls and patients with schizophrenia during the resting state</description>
+    </item>
+    
+    <item>
+      <title>Multi network InfoMax - A pre-training method involving graph convolutional networks</title>
+      <link>https://neuroneural.github.io/posts/multi-network-infomax-a-pre-training-method-involving-graph-convolutional-networks/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/multi-network-infomax-a-pre-training-method-involving-graph-convolutional-networks/</guid>
+      <description>Title: Multi network InfoMax: A pre-training method involving graph convolutional networks</description>
+    </item>
+    
+    <item>
+      <title>Multidataset independent subspace analysis</title>
+      <link>https://neuroneural.github.io/posts/multidataset-independent-subspace-analysis/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/multidataset-independent-subspace-analysis/</guid>
+      <description>Title: Multidataset independent subspace analysis
+Authors: Rogers F Silva, SM Plis, T Adalı, VD Calhoun</description>
+    </item>
+    
+    <item>
+      <title>Multidataset independent subspace analysis with application to multimodal fusion</title>
+      <link>https://neuroneural.github.io/posts/multidataset-independent-subspace-analysis-with-application-to-multimodal-fusion/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/multidataset-independent-subspace-analysis-with-application-to-multimodal-fusion/</guid>
+      <description>Title: Multidataset independent subspace analysis with application to multimodal fusion</description>
+    </item>
+    
+    <item>
+      <title>Multiplicative updates For Non-Negative Kernel SVM</title>
+      <link>https://neuroneural.github.io/posts/multiplicative-updates-for-non-negative-kernel-svm/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/multiplicative-updates-for-non-negative-kernel-svm/</guid>
+      <description>Title: Multiplicative updates For Non-Negative Kernel SVM
+Authors: Vamsi K Potluru, Sergey M Plis, Morten Morup, Vince D Calhoun, Terran Lane</description>
+    </item>
+    
+    <item>
+      <title>Neurocrypt - Machine learning over encrypted distributed neuroimaging data</title>
+      <link>https://neuroneural.github.io/posts/neurocrypt-machine-learning-over-encrypted-distributed-neuroimaging-data/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/neurocrypt-machine-learning-over-encrypted-distributed-neuroimaging-data/</guid>
+      <description>Title: Neurocrypt: Machine learning over encrypted distributed neuroimaging data
+Authors: Nipuna Senanayake, Robert Podschwadt, Daniel Takabi, Vince D Calhoun, Sergey M Plis</description>
+    </item>
+    
+    <item>
+      <title>Patterns of co-occurring gray matter concentration loss across the Huntington disease prodrome</title>
+      <link>https://neuroneural.github.io/posts/patterns-of-co-occurring-gray-matter-concentration-loss-across-the-huntington-disease-prodrome/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/patterns-of-co-occurring-gray-matter-concentration-loss-across-the-huntington-disease-prodrome/</guid>
+      <description>Title: Patterns of co-occurring gray matter concentration loss across the Huntington disease prodrome</description>
+    </item>
+    
+    <item>
+      <title>Peering Beyond the Gradient Veil with Distributed Auto Differentiation</title>
+      <link>https://neuroneural.github.io/posts/peering-beyond-the-gradient-veil-with-distributed-auto-differentiation/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/peering-beyond-the-gradient-veil-with-distributed-auto-differentiation/</guid>
+      <description>Title: Peering Beyond the Gradient Veil with Distributed Auto Differentiation</description>
+    </item>
+    
+    <item>
+      <title>Privacy-preserving quality control of neuroimaging datasets in federated environment</title>
+      <link>https://neuroneural.github.io/posts/privacy-preserving-quality-control-of-neuroimaging-datasets-in-federated-environment/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/privacy-preserving-quality-control-of-neuroimaging-datasets-in-federated-environment/</guid>
+      <description>Title: Privacy-preserving quality control of neuroimaging datasets in federated environment</description>
+    </item>
+    
+    <item>
+      <title>Privacy‐preserving quality control of neuroimaging datasets in federated environments</title>
+      <link>https://neuroneural.github.io/posts/privacy%CE%B3%C3%A7%C3%A9preserving-quality-control-of-neuroimaging-datasets-in-federated-environments/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/privacy%CE%B3%C3%A7%C3%A9preserving-quality-control-of-neuroimaging-datasets-in-federated-environments/</guid>
+      <description>Title: Privacy‐preserving quality control of neuroimaging datasets in federated environments</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic forward model for electroencephalography source analysis</title>
+      <link>https://neuroneural.github.io/posts/probabilistic-forward-model-for-electroencephalography-source-analysis/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/probabilistic-forward-model-for-electroencephalography-source-analysis/</guid>
+      <description>Title: Probabilistic forward model for electroencephalography source analysis
+Authors: Sergey M Plis, John S George, Sung C Jun, Doug M Ranken, Petr L Volegov, David M Schmidt</description>
+    </item>
+    
+    <item>
+      <title>Quantitative EEG biomarkers for mild traumatic brain injury</title>
+      <link>https://neuroneural.github.io/posts/quantitative-eeg-biomarkers-for-mild-traumatic-brain-injury/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/quantitative-eeg-biomarkers-for-mild-traumatic-brain-injury/</guid>
+      <description>Title: Quantitative EEG biomarkers for mild traumatic brain injury
+Authors: Jeffrey D Lewine, Sergey Plis, Alvaro Ulloa, Christopher Williams, Mark Spitz, John Foley, Kim Paulson, John Davis, Nitin Bangera, Travis Snyder, Lindell Weaver</description>
+    </item>
+    
+    <item>
+      <title>Reading the (functional) writing on the (structural) wall - Multimodal fusion of brain structure and function via a deep neural network based translation approach reveals novel impairments in schizophrenia</title>
+      <link>https://neuroneural.github.io/posts/reading-the-functional-writing-on-the-structural-wall-multimodal-fusion-of-brain-structure-and-function-via-a-deep-neural-network-based-translation-approach-reveals-novel-impairments-in-schizophrenia/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/reading-the-functional-writing-on-the-structural-wall-multimodal-fusion-of-brain-structure-and-function-via-a-deep-neural-network-based-translation-approach-reveals-novel-impairments-in-schizophrenia/</guid>
+      <description>Title: Reading the (functional) writing on the (structural) wall: Multimodal fusion of brain structure and function via a deep neural network based translation approach reveals novel impairments in schizophrenia</description>
+    </item>
+    
+    <item>
+      <title>Relationships between alpha oscillations during speech preparation and the listener N400 ERP to the produced speech</title>
+      <link>https://neuroneural.github.io/posts/relationships-between-alpha-oscillations-during-speech-preparation-and-the-listener-n400-erp-to-the-produced-speech/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/relationships-between-alpha-oscillations-during-speech-preparation-and-the-listener-n400-erp-to-the-produced-speech/</guid>
+      <description>Title: Relationships between alpha oscillations during speech preparation and the listener N400 ERP to the produced speech</description>
+    </item>
+    
+    <item>
+      <title>Restricted Boltzmann machines for neuroimaging - an application in identifying intrinsic networks</title>
+      <link>https://neuroneural.github.io/posts/restricted-boltzmann-machines-for-neuroimaging-an-application-in-identifying-intrinsic-networks/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/restricted-boltzmann-machines-for-neuroimaging-an-application-in-identifying-intrinsic-networks/</guid>
+      <description>Title: Restricted Boltzmann machines for neuroimaging: an application in identifying intrinsic networks</description>
+    </item>
+    
+    <item>
+      <title>Run, skeleton, run - skeletal model in a physics-based simulation</title>
+      <link>https://neuroneural.github.io/posts/run-skeleton-run-skeletal-model-in-a-physics-based-simulation/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/run-skeleton-run-skeletal-model-in-a-physics-based-simulation/</guid>
+      <description>Title: Run, skeleton, run: skeletal model in a physics-based simulation</description>
+    </item>
+    
+    <item>
+      <title>Scalable learning of large networks</title>
+      <link>https://neuroneural.github.io/posts/scalable-learning-of-large-networks/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/scalable-learning-of-large-networks/</guid>
+      <description>Title: Scalable learning of large networks
+Authors: Sushmita Roy, Sergey Plis, Margaret Werner-Washburne, Terran Lane</description>
+    </item>
+    
+    <item>
+      <title>Self-Supervised Mental Disorder Classifiers via Time Reversal</title>
+      <link>https://neuroneural.github.io/posts/self-supervised-mental-disorder-classifiers-via-time-reversal/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/self-supervised-mental-disorder-classifiers-via-time-reversal/</guid>
+      <description>Title: Self-Supervised Mental Disorder Classifiers via Time Reversal
+Authors: Zafar Iqbal, Usman Mehmood, Zening Fu, Sergey Plis</description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal Dynamics of Intrinsic Networks in Functional Magnetic Imaging Data Using Recurrent Neural Networks</title>
+      <link>https://neuroneural.github.io/posts/spatio-temporal-dynamics-of-intrinsic-networks-in-functional-magnetic-imaging-data-using-recurrent-neural-networks/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/spatio-temporal-dynamics-of-intrinsic-networks-in-functional-magnetic-imaging-data-using-recurrent-neural-networks/</guid>
+      <description>Title: Spatio-temporal Dynamics of Intrinsic Networks in Functional Magnetic Imaging Data Using Recurrent Neural Networks</description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal Bayesian inference dipole analysis for MEG neuroimaging data</title>
+      <link>https://neuroneural.github.io/posts/spatiotemporal-bayesian-inference-dipole-analysis-for-meg-neuroimaging-data/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/spatiotemporal-bayesian-inference-dipole-analysis-for-meg-neuroimaging-data/</guid>
+      <description>Title: Spatiotemporal Bayesian inference dipole analysis for MEG neuroimaging data</description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal noise covariance estimation from limited empirical magnetoencephalographic data</title>
+      <link>https://neuroneural.github.io/posts/spatiotemporal-noise-covariance-estimation-from-limited-empirical-magnetoencephalographic-data/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/spatiotemporal-noise-covariance-estimation-from-limited-empirical-magnetoencephalographic-data/</guid>
+      <description>Title: Spatiotemporal noise covariance estimation from limited empirical magnetoencephalographic data</description>
+    </item>
+    
+    <item>
+      <title>Statelets - high dimensional predominant shapes in dynamic functional network connectivity</title>
+      <link>https://neuroneural.github.io/posts/statelets-high-dimensional-predominant-shapes-in-dynamic-functional-network-connectivity/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/statelets-high-dimensional-predominant-shapes-in-dynamic-functional-network-connectivity/</guid>
+      <description>Title: Statelets: high dimensional predominant shapes in dynamic functional network connectivity</description>
+    </item>
+    
+    <item>
+      <title>Task-specific feature extraction and classification of fMRI volumes using a deep neural network initialized with a deep belief network - Evaluation using sensorimotor tasks</title>
+      <link>https://neuroneural.github.io/posts/task-specific-feature-extraction-and-classification-of-fmri-volumes-using-a-deep-neural-network-initialized-with-a-deep-belief-network-evaluation-using-sensorimotor-tasks/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/task-specific-feature-extraction-and-classification-of-fmri-volumes-using-a-deep-neural-network-initialized-with-a-deep-belief-network-evaluation-using-sensorimotor-tasks/</guid>
+      <description>Title: Task-specific feature extraction and classification of fMRI volumes using a deep neural network initialized with a deep belief network: Evaluation using sensorimotor tasks</description>
+    </item>
+    
+    <item>
+      <title>Tasting the cake - evaluating self-supervised generalization on out-of-distribution multimodal MRI data</title>
+      <link>https://neuroneural.github.io/posts/tasting-the-cake-evaluating-self-supervised-generalization-on-out-of-distribution-multimodal-mri-data/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/tasting-the-cake-evaluating-self-supervised-generalization-on-out-of-distribution-multimodal-mri-data/</guid>
+      <description>Title: Tasting the cake: evaluating self-supervised generalization on out-of-distribution multimodal MRI data</description>
+    </item>
+    
+    <item>
+      <title>The influence of visuospatial attention on unattended auditory 40 Hz responses</title>
+      <link>https://neuroneural.github.io/posts/the-influence-of-visuospatial-attention-on-unattended-auditory-40-hz-responses/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/the-influence-of-visuospatial-attention-on-unattended-auditory-40-hz-responses/</guid>
+      <description>Title: The influence of visuospatial attention on unattended auditory 40 Hz responses</description>
+    </item>
+    
+    <item>
+      <title>Through the looking glass - Deep interpretable dynamic directed connectivity in resting fMRI</title>
+      <link>https://neuroneural.github.io/posts/through-the-looking-glass-deep-interpretable-dynamic-directed-connectivity-in-resting-fmri/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/through-the-looking-glass-deep-interpretable-dynamic-directed-connectivity-in-resting-fmri/</guid>
+      <description>Title: Through the looking glass: Deep interpretable dynamic directed connectivity in resting fMRI</description>
+    </item>
+    
+    <item>
+      <title>Tracking whole-brain connectivity dynamics in the resting state</title>
+      <link>https://neuroneural.github.io/posts/tracking-whole-brain-connectivity-dynamics-in-the-resting-state/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/tracking-whole-brain-connectivity-dynamics-in-the-resting-state/</guid>
       <description>Authors : Elena A Allen, Eswar Damaraju, Sergey M Plis, Erik B Erhardt, Tom Eichele, Vince D Calhoun</description>
+    </item>
+    
+    <item>
+      <title>Transfer learning of fMRI dynamics</title>
+      <link>https://neuroneural.github.io/posts/transfer-learning-of-fmri-dynamics/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/transfer-learning-of-fmri-dynamics/</guid>
+      <description>Title: Transfer learning of fMRI dynamics
+Authors: Usman Mahmood, Md Mahfuzur Rahman, Alex Fedorov, Zening Fu, Sergey Plis</description>
+    </item>
+    
+    <item>
+      <title>Variational Autoencoders for Feature Detection of Magnetic Resonance Imaging Data</title>
+      <link>https://neuroneural.github.io/posts/variational-autoencoders-for-feature-detection-of-magnetic-resonance-imaging-data/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroneural.github.io/posts/variational-autoencoders-for-feature-detection-of-magnetic-resonance-imaging-data/</guid>
+      <description>Title: Variational Autoencoders for Feature Detection of Magnetic Resonance Imaging Data</description>
     </item>
     
   </channel>
