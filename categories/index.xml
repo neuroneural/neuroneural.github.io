@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on neuroneural | Sergey Plis, Ph.D.</title>
+    <link>http://splis.gsucreate.org/categories/</link>
+    <description>Recent content in Categories on neuroneural | Sergey Plis, Ph.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Feb 2023 05:00:00 +0000</lastBuildDate><atom:link href="http://splis.gsucreate.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>http://splis.gsucreate.org/categories/publications/</link>
+      <pubDate>Mon, 20 Feb 2023 05:00:00 +0000</pubDate>
+      
+      <guid>http://splis.gsucreate.org/categories/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bachelor</title>
+      <link>http://splis.gsucreate.org/categories/bachelor/</link>
+      <pubDate>Fri, 11 Nov 2022 05:00:00 +0000</pubDate>
+      
+      <guid>http://splis.gsucreate.org/categories/bachelor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ph.D</title>
+      <link>http://splis.gsucreate.org/categories/ph.d/</link>
+      <pubDate>Fri, 11 Nov 2022 05:00:00 +0000</pubDate>
+      
+      <guid>http://splis.gsucreate.org/categories/ph.d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classes</title>
+      <link>http://splis.gsucreate.org/categories/classes/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 -0400</pubDate>
+      
+      <guid>http://splis.gsucreate.org/categories/classes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Master</title>
+      <link>http://splis.gsucreate.org/categories/master/</link>
+      <pubDate>Fri, 07 Aug 2020 05:00:00 +0000</pubDate>
+      
+      <guid>http://splis.gsucreate.org/categories/master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postdoc</title>
+      <link>http://splis.gsucreate.org/categories/postdoc/</link>
+      <pubDate>Tue, 07 Jul 2020 05:00:00 +0000</pubDate>
+      
+      <guid>http://splis.gsucreate.org/categories/postdoc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
