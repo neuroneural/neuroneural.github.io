@@ -2,27 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepages on neuroneural | Sergey Plis, Ph.D.</title>
-    <link>https://neuroneural.github.io/homepage/</link>
+    <link>http://localhost:1313/homepage/</link>
     <description>Recent content in Homepages on neuroneural | Sergey Plis, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://neuroneural.github.io/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/homepage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classic</title>
-      <link>https://neuroneural.github.io/homepage/classic/</link>
+      <link>http://localhost:1313/homepage/classic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://neuroneural.github.io/homepage/classic/</guid>
+      <guid>http://localhost:1313/homepage/classic/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Creative</title>
-      <link>https://neuroneural.github.io/homepage/creative/</link>
+      <link>http://localhost:1313/homepage/creative/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://neuroneural.github.io/homepage/creative/</guid>
+      <guid>http://localhost:1313/homepage/creative/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
