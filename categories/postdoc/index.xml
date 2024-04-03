@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Postdoc on neuroneural | Sergey Plis, Ph.D.</title>
+    <link>https://neuroneural.github.io/categories/postdoc/</link>
+    <description>Recent content in Postdoc on neuroneural | Sergey Plis, Ph.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jul 2020 05:00:00 +0000</lastBuildDate>
+    <atom:link href="https://neuroneural.github.io/categories/postdoc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mohamed Masoud</title>
+      <link>https://neuroneural.github.io/team/mohamed-masoud/</link>
+      <pubDate>Tue, 07 Jul 2020 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/team/mohamed-masoud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kseniya Solovyeva</title>
+      <link>https://neuroneural.github.io/team/kseniya-solovyeva/</link>
+      <pubDate>Tue, 07 Apr 2020 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/team/kseniya-solovyeva/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

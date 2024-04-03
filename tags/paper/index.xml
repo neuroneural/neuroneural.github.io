@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper on neuroneural | Sergey Plis, Ph.D.</title>
+    <link>https://neuroneural.github.io/tags/paper/</link>
+    <description>Recent content in Paper on neuroneural | Sergey Plis, Ph.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Feb 2023 05:00:00 +0000</lastBuildDate>
+    <atom:link href="https://neuroneural.github.io/tags/paper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Causal Learning through Deliberate Undersampling</title>
+      <link>https://neuroneural.github.io/posts/causal-learning-through-deliberate-undersampling/</link>
+      <pubDate>Mon, 20 Feb 2023 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/posts/causal-learning-through-deliberate-undersampling/</guid>
+      <description>Authors : Kseniya Solovyeva, David Danks, Mohammadsajad Abavisani, Sergey Plis</description>
+    </item>
+    <item>
+      <title>Self-supervised multimodal neuroimaging yields predictive representations for a spectrum of Alzheimer&#39;s phenotypes</title>
+      <link>https://neuroneural.github.io/posts/self-supervised-multimodal-neuroimaging-yields-predictive-representations-for-a-spectrum-of-alzheimers-phenotypes/</link>
+      <pubDate>Wed, 07 Sep 2022 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/posts/self-supervised-multimodal-neuroimaging-yields-predictive-representations-for-a-spectrum-of-alzheimers-phenotypes/</guid>
+      <description>Authors : Alex Fedorov, Eloy Geenjaar, Lei Wu, Tristan Sylvain, Thomas P DeRamus, Margaux Luck, Maria Misiura, R Devon Hjelm, Sergey M Plis, Vince D Calhoun</description>
+    </item>
+    <item>
+      <title>Pipeline-Invariant Representation Learning for Neuroimaging</title>
+      <link>https://neuroneural.github.io/posts/pipeline-invariant-representation-learning-for-neuroimaging/</link>
+      <pubDate>Sat, 27 Aug 2022 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/posts/pipeline-invariant-representation-learning-for-neuroimaging/</guid>
+      <description>Authors : Xinhui Li, Alex Fedorov, Mrinal Mathur, Anees Abrol, Gregory Kiar, Sergey Plis, Vince Calhoun</description>
+    </item>
+    <item>
+      <title>Interpreting models interpreting brain dynamics</title>
+      <link>https://neuroneural.github.io/posts/interpreting-models-interpreting-brain-dynamics/</link>
+      <pubDate>Thu, 21 Jul 2022 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/posts/interpreting-models-interpreting-brain-dynamics/</guid>
+      <description>Authors : Md Rahman, Usman Mahmood, Noah Lewis, Harshvardhan Gazula, Alex Fedorov, Zening Fu, Vince D Calhoun, Sergey M Plis</description>
+    </item>
+    <item>
+      <title>Mind the gap: functional network connectivity interpolation between schizophrenia patients and controls using a variational autoencoder</title>
+      <link>https://neuroneural.github.io/posts/mind-the-gap-functional-network-connectivity-interpolation-between-schizophrenia-patients-and-controls-using-a-variational-autoencoder/</link>
+      <pubDate>Mon, 11 Jul 2022 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/posts/mind-the-gap-functional-network-connectivity-interpolation-between-schizophrenia-patients-and-controls-using-a-variational-autoencoder/</guid>
+      <description>Authors : Xinhui Li, Eloy Geenjaar, Zening Fu, Sergey Plis, Vince Calhoun</description>
+    </item>
+    <item>
+      <title>Statelets: Capturing recurrent transient variations in dynamic functional network connectivity</title>
+      <link>https://neuroneural.github.io/posts/statelets-capturing-recurrent-transient-variations-in-dynamic-functional-network-connectivity/</link>
+      <pubDate>Wed, 01 Jun 2022 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/posts/statelets-capturing-recurrent-transient-variations-in-dynamic-functional-network-connectivity/</guid>
+      <description>Authors : Md Abdur Rahaman, Eswar Damaraju, Debbrata K Saha, Sergey M Plis, Vince D Calhoun</description>
+    </item>
+    <item>
+      <title>Constraint-Based Causal Structure Learning from Undersampled Graphs</title>
+      <link>https://neuroneural.github.io/posts/constraint-based-causal-structure-learning-from-undersampled-graphs/</link>
+      <pubDate>Wed, 18 May 2022 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/posts/constraint-based-causal-structure-learning-from-undersampled-graphs/</guid>
+      <description>Authors : Mohammadsajad Abavisani, David Danks, Sergey Plis&#xA;Publication date : 2022/5/18</description>
+    </item>
+    <item>
+      <title>Privacy‐preserving quality control of neuroimaging datasets in federated environments</title>
+      <link>https://neuroneural.github.io/posts/privacypreserving-quality-control-of-neuroimaging-datasets-in-federated-environments/</link>
+      <pubDate>Sun, 01 May 2022 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/posts/privacypreserving-quality-control-of-neuroimaging-datasets-in-federated-environments/</guid>
+      <description>Authors : Debbrata K Saha, Vince D Calhoun, Yuhui Du, Zening Fu, Soo Min Kwon, Anand D Sarwate, Sandeep R Panta, Sergey M Plis</description>
+    </item>
+    <item>
+      <title>Decentralized Brain Age Estimation using MRI Data</title>
+      <link>https://neuroneural.github.io/posts/decentralized-brain-age-estimation-using-mri-data/</link>
+      <pubDate>Tue, 05 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/posts/decentralized-brain-age-estimation-using-mri-data/</guid>
+      <description>Authors : Sunitha Basodi, Rajikha Raja, Bhaskar Ray, Harshvardhan Gazula, Anand D Sarwate, Sergey Plis, Jingyu Liu, Eric Verner, Vince D Calhoun</description>
+    </item>
+    <item>
+      <title>Geometrically Guided Saliency Maps</title>
+      <link>https://neuroneural.github.io/posts/geometrically-guided-saliency-maps/</link>
+      <pubDate>Sat, 05 Mar 2022 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/posts/geometrically-guided-saliency-maps/</guid>
+      <description>Authors : Md Mahfuzur Rahman, Noah Lewis, Sergey Plis&#xA;Publication date : 2014/3/1</description>
+    </item>
+    <item>
+      <title>Three‐way parallel group independent component analysis: Fusion of spatial and spatiotemporal magnetic resonance imaging data</title>
+      <link>https://neuroneural.github.io/posts/three-way-parallel-group-independent-component-analysis-fusion-of-spatial-and-spatiotemporal-magnetic-resonance-imaging-data/</link>
+      <pubDate>Tue, 01 Mar 2022 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/posts/three-way-parallel-group-independent-component-analysis-fusion-of-spatial-and-spatiotemporal-magnetic-resonance-imaging-data/</guid>
+      <description>Authors : Shile Qi, Rogers F Silva, Daoqiang Zhang, Sergey M Plis, Robyn Miller, Victor M Vergara, Rongtao Jiang, Dongmei Zhi, Jing Sui, Vince D Calhoun</description>
+    </item>
+    <item>
+      <title>Deep learning in neuroimaging: Promises and challenges</title>
+      <link>https://neuroneural.github.io/posts/deep-learning-in-neuroimaging-promises-and-challenges/</link>
+      <pubDate>Thu, 24 Feb 2022 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/posts/deep-learning-in-neuroimaging-promises-and-challenges/</guid>
+      <description>Authors : Weizheng Yan, Gang Qu, Wenxing Hu, Anees Abrol, Biao Cai, Chen Qiao, Sergey M Plis, Yu-Ping Wang, Jing Sui, Vince D Calhoun</description>
+    </item>
+    <item>
+      <title>Federated analysis in COINSTAC reveals functional network connectivity and spectral links to smoking and alcohol consumption in nearly 2,000 adolescent brains</title>
+      <link>https://neuroneural.github.io/posts/federated-analysis-in-coinstac-reveals-functional-network-connectivity-and-spectral-links-to-smoking-and-alcohol-consumption-in-nearly-2000-adolescent-brains/</link>
+      <pubDate>Sat, 01 Jan 2022 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/posts/federated-analysis-in-coinstac-reveals-functional-network-connectivity-and-spectral-links-to-smoking-and-alcohol-consumption-in-nearly-2000-adolescent-brains/</guid>
+      <description>Authors : Harshvardhan Gazula, Kelly Rootes-Murdy, Bharath Holla, Sunitha Basodi, Zuo Zhang, Eric Verner, Ross Kelly, Pratima Murthy, Amit Chakrabarti, Debasish Basu, Subodh Bhagyalakshmi Nanjayya, Rajkumar Lenin Singh, Roshan Lourembam Singh, Kartik Kalyanram, Kamakshi Kartik, Kumaran Kalyanaraman, Krishnaveni Ghattu, Rebecca Kuriyan, Sunita Simon Kurpad, Gareth J Barker, Rose Dawn Bharath, Sylvane Desrivieres, Meera Purushottam, Dimitri Papadopoulos Orfanos, Eesha Sharma, Matthew Hickman, Mireille Toledano, Nilakshi Vaidya, Tobias Banaschewski, Arun LW Bokde, Herta Flor, Antoine Grigis, Hugh Garavan, Penny Gowland, Andreas Heinz, Rüdiger Brühl, Jean-Luc Martinot, Marie-Laure Paillère Martinot, Eric Artiges, Frauke Nees, Tomáš Paus, Luise Poustka, Juliane H Fröhner, Lauren Robinson, Michael N Smolka, Henrik Walter, Jeanne Winterer, Robert Whelan, Jessica A Turner, Anand D Sarwate, Sergey M Plis, Vivek Benegal, Gunter Schumann, Vince D Calhoun, IMAGEN Consortium</description>
+    </item>
+    <item>
+      <title>Path analysis: A method to estimate altered pathways in time-varying graphs of neuroimaging data</title>
+      <link>https://neuroneural.github.io/posts/path-analysis-a-method-to-estimate-altered-pathways-in-time-varying-graphs-of-neuroimaging-data/</link>
+      <pubDate>Sat, 01 Jan 2022 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/posts/path-analysis-a-method-to-estimate-altered-pathways-in-time-varying-graphs-of-neuroimaging-data/</guid>
+      <description>Authors : Haleh Falakshahi, Hooman Rokham, Zening Fu, Armin Iraji, Daniel H Mathalon, Judith M Ford, Bryon A Mueller, Adrian Preda, Theo GM van Erp, Jessica A Turner, Sergey Plis, Vince D Calhoun</description>
+    </item>
+    <item>
+      <title>Single-shot pruning for offline reinforcement learning</title>
+      <link>https://neuroneural.github.io/posts/single-shot-pruning-for-offline-reinforcement-learning/</link>
+      <pubDate>Fri, 31 Dec 2021 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/posts/single-shot-pruning-for-offline-reinforcement-learning/</guid>
+      <description>Authors : Samin Yeasar Arnob, Riyasat Ohib, Sergey Plis, Doina Precup</description>
+    </item>
+    <item>
+      <title>Federated analysis of neuroimaging data: A review of the field</title>
+      <link>https://neuroneural.github.io/posts/federated-analysis-of-neuroimaging-data-a-review-of-the-field/</link>
+      <pubDate>Mon, 22 Nov 2021 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/posts/federated-analysis-of-neuroimaging-data-a-review-of-the-field/</guid>
+      <description>Authors : Elena A Allen, Eswar Damaraju, Sergey M Plis, Erik B Erhardt, Tom Eichele, Vince D Calhoun</description>
+    </item>
+    <item>
+      <title>Tracking whole-brain connectivity dynamics in the resting state</title>
+      <link>https://neuroneural.github.io/posts/tracking-whole-brain-connectivity-dynamics-in-the-resting-state/</link>
+      <pubDate>Sat, 01 Mar 2014 05:00:00 +0000</pubDate>
+      <guid>https://neuroneural.github.io/posts/tracking-whole-brain-connectivity-dynamics-in-the-resting-state/</guid>
+      <description>Authors : Elena A Allen, Eswar Damaraju, Sergey M Plis, Erik B Erhardt, Tom Eichele, Vince D Calhoun</description>
+    </item>
+  </channel>
+</rss>
